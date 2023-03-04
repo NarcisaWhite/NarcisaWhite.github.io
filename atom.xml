@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-04T07:01:02.885Z</updated>
+  <updated>2023-03-04T07:08:50.701Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>tableau_note</title>
+    <link href="http://example.com/2023/03/04/tableau-note/"/>
+    <id>http://example.com/2023/03/04/tableau-note/</id>
+    <published>2023-03-04T07:08:50.000Z</published>
+    <updated>2023-03-04T07:08:50.701Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>graduation_projiects</title>
@@ -34,8 +47,15 @@
     <link href="http://example.com/2023/03/04/%E8%A1%8C%E7%A0%94%E7%AC%94%E8%AE%B0/"/>
     <id>http://example.com/2023/03/04/%E8%A1%8C%E7%A0%94%E7%AC%94%E8%AE%B0/</id>
     <published>2023-03-04T07:00:05.000Z</published>
-    <updated>2023-03-04T07:00:05.631Z</updated>
+    <updated>2023-03-04T12:58:59.660Z</updated>
     
+    <content type="html"><![CDATA[<h1 id="预备知识"><a href="#预备知识" class="headerlink" title="预备知识"></a>预备知识</h1><h2 id="财务基础"><a href="#财务基础" class="headerlink" title="财务基础"></a>财务基础</h2><p>利润表｜<br>资产负债表｜<br>现金流量表｜</p><h2 id="wind使用"><a href="#wind使用" class="headerlink" title="wind使用"></a>wind使用</h2><h1 id="行研写作"><a href="#行研写作" class="headerlink" title="行研写作"></a>行研写作</h1><h2 id="行研框架与思路"><a href="#行研框架与思路" class="headerlink" title="行研框架与思路"></a>行研框架与思路</h2><h2 id="行研宏观分析"><a href="#行研宏观分析" class="headerlink" title="行研宏观分析"></a>行研宏观分析</h2><h1 id="行研案例"><a href="#行研案例" class="headerlink" title="行研案例"></a>行研案例</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;预备知识&quot;&gt;&lt;a href=&quot;#预备知识&quot; class=&quot;headerlink&quot; title=&quot;预备知识&quot;&gt;&lt;/a&gt;预备知识&lt;/h1&gt;&lt;h2 id=&quot;财务基础&quot;&gt;&lt;a href=&quot;#财务基础&quot; class=&quot;headerlink&quot; title=&quot;财务基础&quot;&gt;&lt;/a</summary>
+      
     
     
     
